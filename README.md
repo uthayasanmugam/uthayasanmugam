@@ -1,4 +1,7 @@
 
+<h3 align="center">full stack developer </h3> <br>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+
 👋 Hi, I’m @uthai backend developer in Truckrr info
 
 👀 I’m learn something new open source with help.
@@ -7,8 +10,8 @@
 
 💞️ I’m studying MCA-RVS-CAS.
 
-📫 contact me mail to-@saitharandj402@gmail.com
--->
+📫 contact me mail to-  ***@saitharandj402@gmail.com***
+
 
 
 
@@ -36,4 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uthayasanmugam&show_icons=true&locale=en" alt="uthayasanmugam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uthayasanmugam&" alt="uthayasanmugam" /></p>
+
+<p align="center"> <b>Let's Go ❤️ by starting some of the repositories!</b> </p>
+
+![snake gif](https://github.com/yujo11/yujo11/blob/output/github-contribution-grid-snake.gif)
 
