@@ -1,5 +1,5 @@
 
-<h3 align="center">Growing as a full stack developer </h3> <br>
+<h3 align="center">Growing as a developer </h3> <br>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 👋 Hi, I’m @uthai backend developer in Truckrr info
