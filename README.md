@@ -10,10 +10,24 @@
 -->
 
 
-<h3 align="center"></h3>
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uthayasanmugam&label=Profile%20views&color=0e75b6&style=flat" alt="uthayasanmugam" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uthayasanmugam" alt="uthayasanmugam" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/uthai" target="blank"><img src="https://img.shields.io/twitter/follow/uthai?logo=twitter&style=for-the-badge" alt="uthai" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/uthai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uthai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uthayasanmugam (uthai) p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uthayasanmugam (uthai) p" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/uthai uthayasanmugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uthai uthayasanmugam" height="30" width="40" /></a>
+<a href="https://codesandbox.com/uthayasanmugam-mca-rvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="uthayasanmugam-mca-rvs" height="30" width="40" /></a>
+<a href="https://fb.com/udhaya kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="udhaya kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/uthai-thamizh-uk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uthai-thamizh-uk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uthayasanmugam&show_icons=true&locale=en&layout=compact" alt="uthayasanmugam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uthayasanmugam&show_icons=true&locale=en" alt="uthayasanmugam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uthayasanmugam&" alt="uthayasanmugam" /></p>
