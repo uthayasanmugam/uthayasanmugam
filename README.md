@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Full Stack Developer specializing in the MERN stack </h3> <br>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-👋 Hi, I’m @uthai backend developer in Truckrr info
+🔭 Hi, I’m @uthai backend developer in Truckrr info
 
 👀 I’m learn something new open source with help.
 
