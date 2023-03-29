@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
    here on my profile
 </h1>
-<h3 align="center">Growing as a developer </h3> <br>
+<h3 align="center">I'm a Full Stack Developer specializing in the MERN stack </h3> <br>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 👋 Hi, I’m @uthai backend developer in Truckrr info
