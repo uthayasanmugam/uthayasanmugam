@@ -43,7 +43,6 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uthayasanmugam&show_icons=true&locale=en&layout=compact" alt="uthayasanmugam" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uthayasanmugam&show_icons=true&locale=en" alt="uthayasanmugam"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uthayasanmugam&" alt="uthayasanmugam" /></p>
-
 <p align="center"> <b>Let's Go ❤️starting some of the repositories!</b> </p>
 
 ![snake gif](https://github.com/yujo11/yujo11/blob/output/github-contribution-grid-snake.gif)
