@@ -1,6 +1,6 @@
 <h1 align="center">Nice to have you here on my profile</h1>
 <h3 align="center">I'm a Full Stack Developer specializing in the MERN stack </h3> <br>
-<img align="left" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400"/>
+<img align="left"alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400"/>
 
 🔭 Hi, I’m @uthai backend developer in Truckrr info
 
@@ -12,11 +12,11 @@
 
 📫 contact me mail to-***@saitharandj402@gmail.com***
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uthayasanmugam&label=Profile%20views&color=0e75b6&style=flat" alt="uthayasanmugam" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=uthayasanmugam&label=Profile%20views&color=0e75b6&style=flat" alt="uthayasanmugam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uthayasanmugam" alt="uthayasanmugam" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uthayasanmugam" alt="uthayasanmugam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saitharandj402" target="blank"><img src="https://img.shields.io/twitter/follow/saitharandj402?logo=twitter&style=for-the-badge" alt="saitharandj402" /></a> </p>
+<p align="left"><a href="https://twitter.com/saitharandj402" target="blank"><img src="https://img.shields.io/twitter/follow/saitharandj402?logo=twitter&style=for-the-badge" alt="saitharandj402" /></a> </p>
 
 <h3 align="left">social platform</h3>
 <p align="left">
