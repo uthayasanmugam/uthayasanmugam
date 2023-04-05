@@ -44,7 +44,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uthayasanmugam&show_icons=true&locale=en" alt="uthayasanmugam"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uthayasanmugam&" alt="uthayasanmugam" /></p>
 <p align="center"> <b>Let's Go ❤️starting some of the repositories!</b> </p>
+
 ![snake gif](https://github.com/yujo11/yujo11/blob/output/github-contribution-grid-snake.gif)
+ 
 <h1 align="center">Thanks for checking out my profile.
 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
  
