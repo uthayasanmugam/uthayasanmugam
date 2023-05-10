@@ -27,7 +27,7 @@
    <a href="https://codesandbox.com/uthayasanmugam-mca-rvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="uthayasanmugam-mca-rvs" height="30" width="40" /></a></a>
    <a href="https://twitter.com/uthai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uthai" height="30" width="40" /></a>
    <a href="https://stackoverflow.com/users/uthai uthayasanmugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uthai uthayasanmugam" height="30" width="40" />
-  </p>
+ </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
